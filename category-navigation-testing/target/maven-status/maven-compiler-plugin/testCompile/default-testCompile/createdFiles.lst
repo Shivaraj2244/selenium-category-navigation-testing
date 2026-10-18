@@ -1,0 +1,8 @@
+utils\LocalDemoServer.class
+pages\BasePage.class
+tests\CategoryNavigationTest.class
+pages\CategoryPage.class
+pages\HomePage.class
+utils\ScreenshotOnFailureExtension.class
+tests\BaseTest.class
+utils\ScreenshotUtil.class
